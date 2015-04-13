@@ -1,0 +1,28 @@
+{
+  "name": "galaxy-sdk-nodejs",
+  "description": "Xiaomi SDS SDK for Node.js",
+  "homepage": "http://dev.mi.com",
+  "version": "1.0.0",
+  "author": {
+    "name": "Xiaomi Technology Co.",
+    "email": "linshangquan@xiaomi.com",
+    "url": "http://dev.mi.com"
+  },
+  "licenses": [
+    {
+      "type": "Apache-2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0"
+    }
+  ],
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./lib/index.js",
+  "engines": {
+    "node": ">= 0.2.4"
+  },
+  "dependencies": {
+    "node-int64": "~0.3.0",
+    "q": "1.0.x"
+  }
+}
