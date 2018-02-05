@@ -2,7 +2,7 @@
   "name": "galaxy-sdk-nodejs",
   "description": "Xiaomi Service SDK for Node.js",
   "homepage": "http://dev.mi.com",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": {
     "name": "Xiaomi Technology Co.",
     "email": "linshangquan@xiaomi.com, emq-help@xiaomi.com",
